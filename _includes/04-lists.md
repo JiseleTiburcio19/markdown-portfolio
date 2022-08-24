@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Spicy crab roll sushi with spicy mayo
+- Cookies and cream ice cream
+- Pepsi
