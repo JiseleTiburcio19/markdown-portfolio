@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I can draw on both traditional and digital canvases._
+_I can make chill car playlists_
+_I can plan hangouts with my friends_
